@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [https://t.co/qTizC85YsB](https://t.co/qTizC85YsB)
+-   Live Site URL: [https://four-card-feature-section-sdnitrogen.vercel.app/](https://four-card-feature-section-sdnitrogen.vercel.app/)
 
 ## My process
 
