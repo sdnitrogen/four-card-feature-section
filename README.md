@@ -20,8 +20,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### The challenge
 
+To build out the feature section of a brand website and get it looking as close to the design as possible.
 Users should be able to:
-
 -   View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
@@ -63,7 +63,7 @@ I'd continue to polish my css flexbox skills and grids as well for designing the
 
 ### Useful resources
 
--   [CSS Tricks](https://css-tricks.com/) - This website always comes clutch when you need to lookup specific css functionalities.
+-   [CSS Tricks](https://css-tricks.com/) - This website always comes in clutch when you need to lookup specific css functionalities.
 
 ## Author
 
